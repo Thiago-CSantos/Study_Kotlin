@@ -33,4 +33,11 @@ fun main(args: Array<String>) {
     val PIB_perCapita: Double = 254360000000.0
     println("PIB 3º trimestre de 2022 $PIB_perCapita")
 
+    val soma = sum(5, 10)
+
+    println(soma)
+
+}
+fun sum(a: Int, b: Int): Int{
+    return a + b
 }
