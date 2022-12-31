@@ -27,7 +27,7 @@ fun main(args: Array<String>) {
 
     print(vereficarString("xxooox"))
 
-    //imprimir()
+    imprimir()
 
 
 }
