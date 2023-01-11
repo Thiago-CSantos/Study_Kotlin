@@ -1,3 +1,5 @@
+package control
+
 class Console {
 
     fun readInt(msg: String): Int {

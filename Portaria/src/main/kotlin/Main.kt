@@ -1,7 +1,10 @@
-fun main(args: Array<String>) {
-    val p = Portaria()
+import control.Portaria
 
-    p.controle()
+fun main(args: Array<String>) {
+//    val p = Portaria()
+//    p.controle()
+
+    Portaria()
 
 }
 
